@@ -9,5 +9,7 @@ alias :tufusa :tungsten
 puts tufusa
 ```
 
-![](https://github-readme-stats-tufusa.vercel.app/api?username=tufusa&count_private=true&theme=github_dark&show_icons=true)
-![](https://github-readme-stats-tufusa.vercel.app/api/top-langs/?username=tufusa&layout=compact&langs_count=20&theme=github_dark)
+[![stats-dark](https://github-readme-stats-tufusa.vercel.app/api?username=tufusa&count_private=true&theme=github_dark#gh-dark-mode-only)](https://github.com/tufusa/github-readme-stats#gh-dark-mode-only)
+[![stats-light](https://github-readme-stats-tufusa.vercel.app/api?username=tufusa&count_private=true&theme=default#gh-light-mode-only)](https://github.com/tufusa/github-readme-stats#gh-light-mode-only)
+[![top-langs-dark](https://github-readme-stats-tufusa.vercel.app/api/top-langs/?username=tufusa&layout=compact&langs_count=20&theme=github_dark#gh-dark-mode-only)](https://github.com/tufusa/github-readme-stats#gh-dark-mode-only)
+[![top-langs-light](https://github-readme-stats-tufusa.vercel.app/api/top-langs/?username=tufusa&layout=compact&langs_count=20&theme=default#gh-light-mode-only)](https://github.com/tufusa/github-readme-stats#gh-light-mode-only)
