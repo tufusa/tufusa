@@ -1,12 +1,10 @@
 # tufusa
 ```ruby
-def tungsten
-  %q%Hello I'm tungsten%
+def greet
+  $><< %q%Hello I'm tufusa%
 end
 
-alias :tufusa :tungsten
-
-puts tufusa
+greet
 ```
 
 [![stats-dark](https://github-readme-stats-tufusa.vercel.app/api?username=tufusa&count_private=true&theme=github_dark#gh-dark-mode-only)](https://github.com/tufusa/github-readme-stats#gh-dark-mode-only)
