@@ -1,10 +1,6 @@
 # tufusa
 ```ruby
-def greet
-  $><< %q%Hello I'm tufusa%
-end
-
-greet
+->(_){_.inject($>){_1<<_2<<?\s}}[%w%Hello I'm tufusa%]
 ```
 
 [![stats-dark](https://github-readme-stats-tufusa.vercel.app/api?username=tufusa&count_private=true&theme=github_dark#gh-dark-mode-only)](https://github.com/tufusa/github-readme-stats#gh-dark-mode-only)
